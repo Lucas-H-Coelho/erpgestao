@@ -1,0 +1,25 @@
+#body{
+    background-color: rgb(128, 174, 255);
+}
+   
+#h1{
+    color: rgb(42, 78, 140);
+}
+
+
+#p1{
+    color: rgb(255, 0, 0);
+}
+
+#table, th, td {
+    border: 1px solid black;
+  }
+
+        table, th, td {
+          border: 1px solid black;
+          border-radius: 10px;
+        }
+       
+        th, td{
+            background-color: rgb(42, 78, 140);
+        }
